@@ -1,0 +1,11 @@
+lxml==6.0.2
+mapbox_earcut==2.0.0
+networkx==3.4.2
+numpy==2.2.6
+pillow==12.0.0
+pyglet==1.5.31
+rtree==1.4.1
+scipy==1.15.3
+shapely==2.1.2
+svg.path==7.0
+trimesh==4.10.0
